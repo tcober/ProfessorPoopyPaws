@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "Professor Poopy Paws",
-        "width": 1152,
-        "height": 648,
+        "width": 960,
+        "height": 540,
         "position": "center",
         "icon": "icon/icon.png"
     }
