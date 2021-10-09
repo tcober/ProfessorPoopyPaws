@@ -1,6 +1,4 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World","order":1,"parentId":0,"scrollX":456.8,"scrollY":282},
-{"id":2,"expanded":false,"name":"Home","order":2,"parentId":1,"scrollX":816,"scrollY":624},
-{"id":3,"expanded":false,"name":"Magic School Interior","order":3,"parentId":1,"scrollX":868.5,"scrollY":1955.25}
+{"id":1,"expanded":true,"name":"World","order":1,"parentId":0,"scrollX":2121.6666666666665,"scrollY":2146.3333333333335}
 ]
